@@ -31,7 +31,7 @@ Regional Leaders: The USA is the top-performing country with 36.2% of revenue.
 Customer Concentration: The top 10 customers contribute over 15% of total revenue.
 
 📝 How to Use
-Clone the repository: git clone https://github.com/saruuu/Sales-Performance-Dashboard.git.
+Clone the repository: git clone https://github.com/saruuu/Sales-Performance-Dashboard.git
 
 Create the sales table in PostgreSQL using the schema provided in the SQL file.
 
